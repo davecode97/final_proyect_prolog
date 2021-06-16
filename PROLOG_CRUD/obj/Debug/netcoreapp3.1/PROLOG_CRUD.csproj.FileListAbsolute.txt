@@ -1,0 +1,13 @@
+C:\Users\Acer\Documents\TECMM\Noveno\PROLOG\PROLOG_CRUD\PROLOG_CRUD\bin\Debug\netcoreapp3.1\PROLOG_CRUD.exe
+C:\Users\Acer\Documents\TECMM\Noveno\PROLOG\PROLOG_CRUD\PROLOG_CRUD\bin\Debug\netcoreapp3.1\PROLOG_CRUD.deps.json
+C:\Users\Acer\Documents\TECMM\Noveno\PROLOG\PROLOG_CRUD\PROLOG_CRUD\bin\Debug\netcoreapp3.1\PROLOG_CRUD.runtimeconfig.json
+C:\Users\Acer\Documents\TECMM\Noveno\PROLOG\PROLOG_CRUD\PROLOG_CRUD\bin\Debug\netcoreapp3.1\PROLOG_CRUD.runtimeconfig.dev.json
+C:\Users\Acer\Documents\TECMM\Noveno\PROLOG\PROLOG_CRUD\PROLOG_CRUD\bin\Debug\netcoreapp3.1\PROLOG_CRUD.dll
+C:\Users\Acer\Documents\TECMM\Noveno\PROLOG\PROLOG_CRUD\PROLOG_CRUD\bin\Debug\netcoreapp3.1\PROLOG_CRUD.pdb
+C:\Users\Acer\Documents\TECMM\Noveno\PROLOG\PROLOG_CRUD\PROLOG_CRUD\obj\Debug\netcoreapp3.1\PROLOG_CRUD.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\TECMM\Noveno\PROLOG\PROLOG_CRUD\PROLOG_CRUD\obj\Debug\netcoreapp3.1\PROLOG_CRUD.AssemblyInfo.cs
+C:\Users\Acer\Documents\TECMM\Noveno\PROLOG\PROLOG_CRUD\PROLOG_CRUD\obj\Debug\netcoreapp3.1\PROLOG_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\TECMM\Noveno\PROLOG\PROLOG_CRUD\PROLOG_CRUD\obj\Debug\netcoreapp3.1\PROLOG_CRUD.dll
+C:\Users\Acer\Documents\TECMM\Noveno\PROLOG\PROLOG_CRUD\PROLOG_CRUD\obj\Debug\netcoreapp3.1\PROLOG_CRUD.pdb
+C:\Users\Acer\Documents\TECMM\Noveno\PROLOG\PROLOG_CRUD\PROLOG_CRUD\obj\Debug\netcoreapp3.1\PROLOG_CRUD.genruntimeconfig.cache
+C:\Users\Acer\Documents\TECMM\Noveno\PROLOG\PROLOG_CRUD\PROLOG_CRUD\obj\Debug\netcoreapp3.1\PROLOG_CRUD.csproj.AssemblyReference.cache
